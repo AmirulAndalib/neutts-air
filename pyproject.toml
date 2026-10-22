@@ -20,7 +20,7 @@ dependencies = [
     "soundfile==0.13.1",
     "torch>=2.8.0",
     "torchaudio>=2.8.0",
-    "transformers==5.1.0",
+    "transformers==5.10.1",
 ]
 
 # Defining optional installations
